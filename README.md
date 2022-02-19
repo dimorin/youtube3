@@ -2,9 +2,9 @@
 ![screenshot](./screenshot.png)
 ![screenshot2](./screenshot2.png)
 <br>
-[site](https://dimorin.github.io/youtube3/)
+[site](https://6210a58804ce549b3f07f532--dimorin-youtube3.netlify.app/)
 <br>
-[how to deployment](https://create-react-app.dev/docs/deployment#github-pages)
+[how to deployment](https://create-react-app.dev/docs/deployment#netlify)
 
 # Getting Started with Create React App
 
